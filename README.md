@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/4becdd2f-0a3a-40a1-8dbf-0225d4cc5218)
+
+
 # Project Summary 
 
 1. Data Cleaning and Combination: Combine multiple files into a single polished dataset.
